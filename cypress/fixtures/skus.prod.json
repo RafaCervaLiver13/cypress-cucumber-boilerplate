@@ -1,0 +1,564 @@
+{
+    "liverpool": {
+        "sl": [
+            {
+                "general": [
+                    {
+                        "sku": "1127727079",
+                        "nombre": "Playera Aéropostale cuello redondo para hombre"
+                    },
+                    {
+                        "sku": "1057832246",
+                        "nombre": "Mario Kart 8 Deluxe Deluxe para Nintendo Switch físico"
+                    },
+                    {
+                        "sku": "1128716283",
+                        "nombre": "Gorra visera curva broche para hombre"
+                    }
+                ],
+                "regalo": [
+                    {
+                        "sku": "1095136083",
+                        "nombre": "Loción Estée Lauder Re-Nutriv 75 ml"
+                    },
+                    {
+                        "sku": "1134472801",
+                        "nombre": "Eau de parfum Estée Lauder Beautiful Magnolia para mujer"
+                    }
+                ],
+                "compraMinima": [
+                    {
+                        "sku": "7509561",
+                        "nombre": "Set de crayones Crayola 24 piezas"
+                    },
+                    {
+                        "sku": "1057099824",
+                        "nombre": "Set de 2 bolígrafos Papermate negro"
+                    }
+                ],
+                "talla": [
+                    {
+                        "sku": "1090834434",
+                        "nombre": "Playera cuello redondo para hombre"
+                    }
+                ],
+                "tallaTopM": [
+                    {
+                        "sku": "1152564254",
+                        "nombre": "Blusa That's It manga corta para mujer"
+                    }
+                ],
+                "tallaBottomM": [
+                    {
+                        "sku": "86010723",
+                        "nombre": "Pantalón Petite Studio straight para mujer"
+                    }
+                ],
+                "tallaZapatoM": [
+                    {
+                        "sku": "9939147784",
+                        "nombre": "Balerina Moramora con flecos"
+                    }
+                ],
+                "preventa": [
+                    {
+                        "sku": "1164967600",
+                        "nombre": "Consola portátil PlayStation 1 TB edición limitada Portal 30 aniversario"
+                    },
+                    {
+                        "sku": "1164967618",
+                        "nombre": "Consola PS5 De 2 TB Edición Digital Playstation"
+                    },
+                    {
+                        "sku": "1157252760",
+                        "nombre": "Assassin's Creed Shadows estándar para PlayStation 5 físico"
+                    }
+                ],
+                "mkp": [
+                    {
+                        "sku": "9945713516",
+                        "nombre": "Apple iPhone XS 5.8 pulgadas OLED Desbloqueado reacondicionado"
+                    },
+                    {
+                        "sku": "99968925671",
+                        "nombre": "PPlayera tipo polo ADIDAS Golf para hombre"
+                    }
+                ],
+                "mkpMultiSellers": [
+                    {
+                        "sku": "1149983267",
+                        "nombre": "Xiaomi Redmi Note 13 AMOLED 6.6 Pulgadas Desbloqueado"
+                    }
+                ],
+                "reacondicionado": [
+                    {
+                        "sku": "23730170",
+                        "nombre": "Apple iPhone 11 6.1 pulgadas IPS Desbloqueado Reacondicionado"
+                    }
+                ],
+                "video": [
+                    {
+                        "sku": "1101114526",
+                        "nombre": "Playera cuello redondo para hombre"
+                    }
+                ],
+                "beauty": [
+                    {
+                        "sku": "1002183010",
+                        "nombre": "Lipstick M.A.C Matte"
+                    }
+                ],
+                "warranty": [
+                    {
+                        "sku": "1100561162",
+                        "nombre": "Control inalámbrico para Xbox One"
+                    }
+                ],
+                "extWarranty": [
+                    {
+                        "sku": "1139797349",
+                        "nombre": "Audífono over ear Sennheiser Momentum wireless 4 inalámbrica con cancelacion de ruido"
+                    }
+                ],
+                "proteccion": [
+                    {
+                        "sku": "1139453054",
+                        "nombre": "Samsung Galaxy Z Flip5 Dynamic AMOLED 2X 6.7 pulgadas desbloqueado"
+                    },
+                    {
+                        "sku": "1133108177",
+                        "nombre": "Samsung Galaxy A54 5G AMOLED 6.4 pulgadas Desbloqueado"
+                    }
+                ],
+                "avi": [
+                    {
+                        "sku": "1149148704",
+                        "nombre": "Xiaomi 13T AMOLED 6.6 pulgadas desbloqueado"
+                    },
+                    {
+                        "sku": "1149149042",
+                        "nombre": "Xiaomi Redmi Note 13 AMOLED 6.7 Pulgadas Desbloqueado"
+                    }
+                ],
+                "geos": [
+                    {
+                        "sku": "1100132300",
+                        "nombre": "Consola Xbox Series S de 512 GB edición Stand alone"
+                    },
+                    {
+                        "sku": "1100561944",
+                        "nombre": "Control inalámbrico para Xbox One"
+                    }
+                ],
+                "vinos": [
+                    {
+                        "sku": "20418290",
+                        "nombre": "Tequila Jose Cuervo Tradicional tipo reposado 950 ml"
+                    }
+                ],
+                "especial": [
+                    {
+                        "sku": "1110088058",
+                        "nombre": "Kit solar monocristalino Green Republic 450 WSet de 2"
+                    }
+                ],
+                "noDisponibilidad": [
+                    {
+                        "sku": "1156876633",
+                        "nombre": "Sudadera Polo Ralph Lauren para niño"
+                    }
+                ]
+            }
+        ],
+        "promos": [
+            {
+                "general": [
+                    {
+                        "sku": "1032365007",
+                        "nombre": "Reloj Diesel Mega Chief para hombre DZ4318"
+                    },
+                    {
+                        "sku": "1154432767",
+                        "nombre": "Dragon Ball Fighterz estándar para PS5 físico"
+                    }
+                ],
+                "priceVariant": [
+                    {
+                        "sku": "99963212298",
+                        "nombre": "Vestido largo formal Cindel escote regular"
+                    }
+                ],
+                "without": [
+                    {
+                        "sku": "1091356534",
+                        "nombre": "Set de aretes y collar Nine West"
+                    }
+                ]
+            }
+        ],
+        "bt": [
+            {
+                "general": [
+                    {
+                        "sku": "1109638508",
+                        "nombre": "Refrigerador Dúplex LG 28 pies cúbicos Tecnología inverter y Tecnología no frost VS27BXQP"
+                    },
+                    {
+                        "sku": "1134692223",
+                        "nombre": "Pantalla Smart TV LG OLED de 77 pulgadas 8 K OLED77Z3PSA"
+                    }
+                ],
+                "regalo": [
+                    {
+                        "sku": "1153187505",
+                        "nombre": "Pantalla Smart TV Samsung QLED de 50 pulgadas 4K QN50Q65DAFXZXA"
+                    }
+                ],
+                "politicas": [
+                    {
+                        "sku": "1096038735",
+                        "nombre": "Refrigerador French door LG 22 pies cúbicos Tecnología inverter y Tecnología no frost GF22BGSK"
+                    }
+                ],
+                "mkp": [
+                    {
+                        "sku": "1114618710",
+                        "nombre": "Bicicleta de montaña Benotto rodada 29 Blackcomb para Hombre"
+                    },
+                    {
+                        "sku": "1129300406",
+                        "nombre": "Pantalla Sansui LED Smart TV de 55 Pulgadas 4K/UHD SMX55P7UR con Roku TV"
+                    }
+                ],
+                "coleccion": [
+                    {
+                        "sku": "SCL6859796",
+                        "nombre": "Ibiza Tabaco Obscuro Contemporáneo"
+                    },
+                    {
+                        "sku": "100000013016",
+                        "nombre": "Recámara Mezzo"
+                    }
+                ],
+                "motocicleta": [
+                    {
+                        "sku": "1162840033",
+                        "nombre": "Motocicleta urbana Bajaj Pulsar N250 2024 2024"
+                    },
+                    {
+                        "sku": "1143437546",
+                        "nombre": "Motocicleta doble propósito MB Hornet 300 Performance 2024"
+                    }
+                ],
+                "noDisponibilidad": [
+                    {
+                        "sku": "1143508125",
+                        "nombre": "Cuatrimoto Carabela Hills 2024"
+                    }
+                ],
+                "regaloIncluido": [
+                    {
+                        "sku": "1108410279",
+                        "nombre": "Lavavajillas de empotre LG 15 servicios LDFN4542S"
+                    }
+                ]
+            }
+        ],
+        "digital": [
+            {
+                "general": [
+                    {
+                        "sku": "1144987540",
+                        "nombre": "Xbox Live Gold suscripción de 6 meses para Xbox Live"
+                    }
+                ]
+            }
+        ],
+        "cross": [
+            {
+                "general": [
+                    {
+                        "sku": "1138030691",
+                        "nombre": "Cómoda Casagora Palermo de chapa madera"
+                    },
+                    {
+                        "sku": "1127004115",
+                        "nombre": "Bikini MAP estampado floral a la cadera para mujer"
+                    },
+                    {
+                        "sku": "1145431771",
+                        "nombre": "Cama Casagora Palermo de madera encinoa"
+                    }
+                ],
+                "same": [
+                    {
+                        "sku": "1138030691",
+                        "nombre": "Cómoda Casagora Palermo de chapa madera"
+                    }
+                ]
+            }
+        ]
+    },
+    "suburbia": {
+        "sl": [
+            {
+                "general": [
+                    {
+                        "sku": "SB5002985723",
+                        "nombre": "Set de fragancia Weekend para mujer"
+                    },
+                    {
+                        "sku": "SB5002423407",
+                        "nombre": "Camisa casual Contempo manga larga para hombre"
+                    },
+                    {
+                        "sku": "SB5008884244",
+                        "nombre": "Gorra visera curva velcro NFL Pittsburgh Steelers para hombre"
+                    }
+                ],
+                "reacondicionado": [
+                    {
+                        "sku": "23730170",
+                        "nombre": "Apple iPhone 11 6.1 pulgadas IPS Desbloqueado Reacondicionado"
+                    }
+                ],
+                "talla": [
+                    {
+                        "sku": "24463514",
+                        "nombre": "Chamarra Gianfranco Dunna reversible para hombre"
+                    },
+                    {
+                        "sku": "SB5010415765",
+                        "nombre": "Zapato derby Flexi para hombre"
+                    }
+                ],
+                "tallaZapatoM": [
+                    {
+                        "sku": "9939147784",
+                        "nombre": "Balerina Moramora con flecos"
+                    },
+                    {
+                        "sku": "9954777230",
+                        "nombre": "Sandalia Moramora para mujer"
+                    }
+                ],
+                "mkp": [
+                    {
+                        "sku": "24463514",
+                        "nombre": "Playera tipo polo Tucane para hombre"
+                    },
+                    {
+                        "sku": "1145103521",
+                        "nombre": "Set vaso entrenador Nuk con 2 piezas"
+                    }
+                ]
+            }
+        ],
+        "bt": [
+            {
+                "general": [
+                    {
+                        "sku": "SB5007826321",
+                        "nombre": "Refrigerador French door LG 29 pies cúbicos tecnología inverter y tecnología no frost GM29BIP"
+                    }
+                ],
+                "mkp": [
+                    {
+                        "sku": "1123588793",
+                        "nombre": "Refrigerador Top mount Acros 13 pies AT1330D"
+                    }
+                ],
+                "motocicleta": [
+                    {
+                        "sku": "sb5008733084",
+                        "nombre": "Motocicleta urbana Bajaj Pulsar N250 2024"
+                    }
+                ]
+            }
+        ],
+        "ratings": [
+            {
+                "general": [
+                    {
+                        "sku": "SB5002797871",
+                        "nombre": "Jeans skinny Non Stop corte cintura para mujer"
+                    }
+                ]
+            }
+        ],
+        "promos": [
+            {
+                "general": [
+                    {
+                        "sku": "1132588232",
+                        "nombre": "Apple Airpods Pro 2 Inalámbricos"
+                    },
+                    {
+                        "sku": "1155010289",
+                        "nombre": "Audífonos In-Ear Samsung Buds 2 Pro inalámbricos con cancelación de ruido"
+                    }
+                ],
+                "priceVariant": [
+                    {
+                        "sku": "99972596111",
+                        "nombre": "Conjunto Yaretni Moda para mujer 2 piezas"
+                    }
+                ],
+                "without": [
+                    {
+                        "sku": "99968578732",
+                        "nombre": "Aretes y collar circulares Luckyly Joyería 14 K zirconia cúbica"
+                    }
+                ]
+            }
+        ]
+    },
+    "gap": {
+        "sl": [
+            {
+                "general": [
+                    {
+                        "sku": "1128721538",
+                        "nombre": "Playera cuello redondo para hombre"
+                    },
+                    {
+                        "sku": "1128721406",
+                        "nombre": "Playera tipo polo para hombre"
+                    },
+                    {
+                        "sku": "1128716283",
+                        "nombre": "Gorra visera curva broche para hombre"
+                    },
+                    {
+                        "sku": "1137922502",
+                        "nombre": "Playera cuello redondo para hombre"
+                    }
+                ],
+                "talla": [
+                    {
+                        "sku": "1128721538",
+                        "nombre": "Playera cuello redondo para hombre"
+                    }
+                ],
+                "geos": [
+                    {
+                        "sku": "1128721406",
+                        "nombre": "Playera tipo polo para hombre"
+                    },
+                    {
+                        "sku": "1127225065",
+                        "nombre": "Sudadera con capucha para mujer"
+                    }
+                ],
+                "noDisponibilidad": [
+                    {
+                        "sku": "1155210089",
+                        "nombre": "Sudadera Marvel Spider-Man para niño"
+                    }
+                ]
+            }
+        ]
+    },
+    "toysrus": {
+        "sl": [
+            {
+                "general": [
+                    {
+                        "sku": "1157275808",
+                        "nombre": "Figura de acción X-Men '97 Magneto Marvel articulado"
+                    },
+                    {
+                        "sku": "1056913609",
+                        "nombre": "Set de construcción Playmobil Muñeco Marshmallow con 9 piezas"
+                    },
+                    {
+                        "sku": "1015154655",
+                        "nombre": "Jenga Hasbro"
+                    }
+                ]
+            }
+        ]
+    },
+    "potterybarn": {
+        "sl": [
+            {
+                "general": [
+                    {
+                        "sku": "1091579055",
+                        "nombre": "Toalla Classic Organic"
+                    },
+                    {
+                        "sku": "1116464204",
+                        "nombre": "Duvet Cloud"
+                    },
+                    {
+                        "sku": "1040586136",
+                        "nombre": "Set de Velas Tealight"
+                    }
+                ],
+                "noDisponibilidad": [
+                    {
+                        "sku": "1127965729",
+                        "nombre": "Detrás de la cámara"
+                    }
+                ],
+                "geos": [
+                    {
+                        "sku": "1080583300",
+                        "nombre": "Dispensador de Jabón Black Marble"
+                    },
+                    {
+                        "sku": "1052120604",
+                        "nombre": "Contenedor para Baño Monique Lhuillier Marble"
+                    }
+                ],
+                "talla": [
+                    {
+                        "sku": "1083863144",
+                        "nombre": "Toalla Classic Organic"
+                    }
+                ]
+            }
+        ],
+        "bt": [
+            {
+                "general": [
+                    {
+                        "sku": "1084253129",
+                        "nombre": "Mesa Toscana de madera"
+                    }
+                ]
+            }
+        ],
+        "ratings": [
+            {
+                "general": [
+                    {
+                        "sku": "1083863110",
+                        "nombre": "Toalla Classic Organic"
+                    }
+                ]
+            }
+        ],
+        "promos": [
+            {
+                "general": [
+                    {
+                        "sku": "1057615024",
+                        "nombre": "Espejo Aidens"
+                    },
+                    {
+                        "sku": "1148771114",
+                        "nombre": "Funda cojín Vega Ikat"
+                    }
+                ],
+                "priceVariant": [
+                    {
+                        "sku": "1130205414",
+                        "nombre": "Colcha Carter Striped"
+                    }
+                ]
+            }
+        ]
+    }
+}

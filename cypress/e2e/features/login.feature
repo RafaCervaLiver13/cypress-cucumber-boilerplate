@@ -1,22 +1,23 @@
-Feature: Login page
+Feature: Checkout
 
     Feature Login page will work depending on the user credentials.
+    Background: Visit liverpool.com
+        Given visit the liverpool page
 
-    Background:
-        Given A web browser is at the saucelabs login page
-    Scenario: Success Login
-        When A user enters the username "standard_user", the password "secret_sauce", and clicks on the login button
-        Then the url will contains the inventory subdirectory
-    Scenario: Blocked Login
-        When A user enters the username "locked_out_user", the password "secret_sauce", and clicks on the login button
-        Then The error message "Epic sadface: Sorry, this user has been locked out." is displayed
-    Scenario: Incorrect Username Login
-        When A user provides incorrect credentials, and clicks on the login button
-            | username | password     |
-            | testName | secret_sauce |
-        Then The error message "Epic sadface: Username and password do not match any user in this service" is displayed
-    Scenario: Incorrect Password Login
-        When A user provides incorrect credentials, and clicks on the login button
-            | username      | password     |
-            | standard_user | testPassword |
-        Then The error message "Epic sadface: Username and password do not match any user in this service" is displayed
+
+    @liv @p0 @IAT-12528 @ignore
+    Scenario: Purchase and cancellation of item.
+        When search for "sku" with type "sl,compraMinima"
+        And write the minimum number of pieces required
+        And select buy now on pdp
+        And log in with user "creditoPurchases" from opt
+        And enter CVV of the card
+        And select button Checkout
+        Then verify the purchase
+        And select button "Mis compras"
+        And select purchased product
+        And select button cancel purchase
+        And select option I dont need it anymore
+        And select button Continue
+        And select button "Confirmar cancelación"
+        Then check cancellation

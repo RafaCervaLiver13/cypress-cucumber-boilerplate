@@ -1,0 +1,162 @@
+{
+    "liverpool": {
+        "blp": [
+            {
+                "nombre": "CHANEL"
+            },
+            {
+                "nombre": "ADIDAS"
+            }
+        ],
+        "filtros": [
+            {
+                "nombre": "sandalias crocs"
+            },
+            {
+                "nombre": "short that's it para niña"
+            }
+        ],
+        "filtro marcas": [
+            {
+                "nombre": "blusa"
+            }
+        ],
+        "filtro -56": [
+            {
+                "nombre": "sandalias adidas"
+            }
+        ],
+        "filtro +1000": [
+            {
+                "nombre": "playera"
+            },
+            {
+                "nombre": "blusa"
+            }
+        ],
+        "mkp": [
+            {
+                "nombre": "nokia"
+            }
+        ],
+        "plp": [
+            {
+                "nombre": "camisa"
+            }
+        ]
+    },
+    "suburbia": {
+        "blp": [
+            {
+                "nombre": "MOSSIMO"
+            },
+            {
+                "nombre": "CONTEMPO"
+            }
+        ],
+        "filtros": [
+            {
+                "nombre": "playera niña"
+            },
+            {
+                "nombre": "short mujer"
+            }
+        ],
+        "filtro -56": [
+            {
+                "nombre": "sandalias"
+            }
+        ],
+        "filtro marcas": [
+            {
+                "nombre": "blusa"
+            }
+        ],
+        "filtro color": [
+            {
+                "nombre": "playera corte regular"
+            }
+        ],
+        "filtroCantidad": [
+            {
+                "nombre": "short baby craysi"
+            }
+        ],
+        "mkp": [
+            {
+                "nombre": "nokia"
+            }
+        ],
+        "plp": [
+            {
+                "nombre": "camisa"
+            }
+        ]
+    },
+    "potterybarn": {
+        "filtros": [
+            {
+                "nombre": "vela"
+            }
+        ],
+        "filtro -56": [
+            {
+                "nombre": "toalla"
+            }
+        ],
+        "filtro color": [
+            {
+                "nombre": "blanco"
+            }
+        ],
+        "plp": [
+            {
+                "nombre": "almohada"
+            }
+        ]
+    },
+    "gap": {
+        "filtros": [
+            {
+                "nombre": "niña"
+            }
+        ],
+        "filtro marcas": [
+            {
+                "nombre": "niño"
+            }
+        ],
+        "filtro -56": [
+            {
+                "nombre": "tela"
+            }
+        ],
+        "filtro color": [
+            {
+                "nombre": "blanco"
+            }
+        ]
+    },
+    "toysrus": {
+        "filtros": [
+            {
+                "nombre": "juguetes"
+            }
+        ],
+        "filtro marcas": [
+            {
+                "nombre": "muñecas"
+            }
+        ],
+        "filtro -56": [
+            {
+                "nombre": "juegos de mesa"
+            }
+        ],
+        "filtro color": [
+            {
+                "nombre": "blanco"
+            }
+        ]
+    }
+}
