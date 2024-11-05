@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-import { isMobile, isStore } from "./genericPage.js"
+import { isMobile, isStore } from "./genericPage"
 
 let addressName, newAddress, newPayment, selectedStore, priceUnit, offer, minimumQty
 

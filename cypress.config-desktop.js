@@ -16,19 +16,19 @@ module.exports = defineConfig({
       '*bambuser.com',
       '*appsflyer.com',
       '*snapchat.com',
-      '*pinterest.com',
-      '*tiktok.com'
+      '*pinterest.com'
     ],
-    userAgent: 'Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/116.0.5845.177 Mobile/15E148 Safari/604.1',
+    //userAgent: 'Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chr0me/38.0.2125.122 Safari/537.36 LG Browser/8.00.00(LGE; 55UJ750V-ZB; 06.10.30; 1; DTV_W17H); webOS.TV-2017; LG NetCast.TV-2013 Compatible (LGE, 55UJ750V-ZB, wired)',
+    //userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79 Safari/537.36 Edge/14.14393',
+    //userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15',
     retries: {
       "runMode": 1,
       "openMode": 0
     },
-    // view port iphone-x
-    viewportWidth: 390,
-    viewportHeight: 844,
+    //desktop
+    viewportWidth: 1366,
+    viewportHeight: 768,
     video: false,
-    //experimentalWebKitSupport: true,
     numTestsKeptInMemory: 1,
 
     async setupNodeEvents(cypressOn, config) {

@@ -1,0 +1,290 @@
+{
+    "liverpool": {
+        "sl": [
+            {
+                "general": [
+                    {
+                        "sku": "1028042805",
+                        "nombre": "Vaso High Ball Haus W Windsor Turquesa"
+                    }
+                ],
+                "talla": [
+                    {
+                        "sku": "1031300995",
+                        "nombre": "Playera polo Banana Republic corte peplum para mujer"
+                    }
+                ],
+                "preventa": [
+                    {
+                        "sku": "1030507696",
+                        "nombre": "Bóxer BOSS 3 piezas"
+                    }
+                ],
+                "compraMinima": [
+                    {
+                        "sku": "1012684482",
+                        "nombre": "Jibbitz con Diseño de Dragón Crocs"
+                    }
+                ],
+                "politicas": [
+                    {
+                        "sku": "1030850533",
+                        "nombre": "Refrigerador Mabe 10 pies"
+                    }
+                ],
+                "regalo": [
+                    {
+                        "sku": "1030512662",
+                        "nombre": "Tenis JBE azul marino"
+                    },
+                    {
+                        "sku": "1030512557",
+                        "nombre": "Tenis JBE para bebé"
+                    }
+                ],
+                "mkp": [
+                    {
+                        "sku": "1031357563",
+                        "nombre": "Abs sala modular negro"
+                    }
+                ],
+                "mkpInt": [
+                    {
+                        "sku": "1516434",
+                        "nombre": "Prueba Seller Internacional 5"
+                    }
+                ],
+                "tallaTopM": [
+                    {
+                        "sku": "1137771971",
+                        "nombre": "Blusa Marella manga corta para mujer"
+                    }
+                ],
+                "tallaBottomM": [
+                    {
+                        "sku": "86010723",
+                        "nombre": "Pantalón Petite Studio recto para mujer"
+                    }
+                ],
+                "tallaZapatoM": [
+                    {
+                        "sku": "9939147784",
+                        "nombre": "Balerina Moramora con flecos"
+                    },
+                    {
+                        "sku": "1132995202",
+                        "nombre": "Sandalia Moramora para mujer"
+                    }
+                ],
+                "video": [
+                    {
+                        "sku": "1101114526",
+                        "nombre": "Playera cuello redondo para hombre"
+                    }
+                ],
+                "beauty": [
+                    {
+                        "sku": "1002183010",
+                        "nombre": "Lipstick M.A.C Matte"
+                    }
+                ],
+                "warranty": [
+                    {
+                        "sku": "1100561162",
+                        "nombre": "Control inalámbrico para Xbox One"
+                    }
+                ],
+                "extWarranty": [
+                    {
+                        "sku": "1139797349",
+                        "nombre": "Audífono over ear Sennheiser Momentum wireless 4 inalámbrica con cancelacion de ruido"
+                    }
+                ],
+                "proteccion": [
+                    {
+                        "sku": "1139453054",
+                        "nombre": "Samsung Galaxy Z Flip5 Dynamic AMOLED 2X 6.7 pulgadas desbloqueado"
+                    },
+                    {
+                        "sku": "1133108177",
+                        "nombre": "Samsung Galaxy A54 5G AMOLED 6.4 pulgadas Desbloqueado"
+                    }
+                ],
+                "avi": [
+                    {
+                        "sku": "1139883113",
+                        "nombre": "Xiaomi 13T AMOLED 6.6 pulgadas desbloqueado"
+                    }
+                ],
+                "geos": [
+                    {
+                        "sku": "1100132300",
+                        "nombre": "Xbox Series S de 512 GB edición Stand alone"
+                    },
+                    {
+                        "sku": "1100561944",
+                        "nombre": "Control inalámbrico para Xbox One"
+                    }
+                ],
+                "vinos": [
+                    {
+                        "sku": "20418290",
+                        "nombre": "Tequila Jose Cuervo Tradicional tipo reposado 950 ml"
+                    }
+                ],
+                "especial": [
+                    {
+                        "sku": "1110088058",
+                        "nombre": "Kit solar monocristalino Green Republic 450 WSet de 2"
+                    }
+                ],
+                "noDisponibilidad": [
+                    {
+                        "sku": "1144655152",
+                        "nombre": "Sudadera para niño"
+                    }
+                ]
+            }
+        ],
+        "bt": [
+            {
+                "general": [
+                    {
+                        "sku": "1030513201",
+                        "nombre": "BT ATG - Sala - 400"
+                    }
+                ],
+                "politicas": [
+                    {
+                        "sku": "1030850533",
+                        "nombre": "Refrigerador Mabe 10 pies"
+                    }
+                ],
+                "regalo": [
+                    {
+                        "sku": "1154439320",
+                        "nombre": "Pantalla Smart TV LG OLED de 83 pulgadas 4K OLED83C4PSA"
+                    }
+                ],
+                "mkp": [
+                    {
+                        "sku": "1137026704",
+                        "nombre": "Bicicleta de montaña Turbo rodada 29 unisex"
+                    },
+                    {
+                        "sku": "1129300406",
+                        "nombre": "Pantalla Sansui LED Smart TV de 55 Pulgadas 4K/UHD SMX55P7UR con Roku TV"
+                    }
+                ],
+                "coleccion": [
+                    {
+                        "sku": "SCL6859796",
+                        "nombre": "Ibiza Tabaco Obscuro Contemporáneo"
+                    },
+                    {
+                        "sku": "100000013016",
+                        "nombre": "Recámara Mezzo"
+                    }
+                ],
+                "motocicleta": [
+                    {
+                        "sku": "1144143732",
+                        "nombre": "Motocicleta urbana Bajaj Pulsar N250 2024 2024"
+                    },
+                    {
+                        "sku": "1143437546",
+                        "nombre": "Motocicleta doble propósito MB Hornet 300 Performance 2024"
+                    }
+                ],
+                "noDisponibilidad": [
+                    {
+                        "sku": "1139647960",
+                        "nombre": "Cuatrimoto Italika ATV250 2024"
+                    }
+                ],
+                "regaloIncluido": [
+                    {
+                        "sku": "1154439320",
+                        "nombre": "Pantalla Smart TV LG OLED de 83 pulgadas 4K OLED83C4PSA"
+                    },
+                    {
+                        "sku": "1151691940",
+                        "nombre": "Pantalla smart tv Samsung Neo QLED de 85 pulgadas 4K/UHD QN85QN85DBFXZX"
+                    }
+                ]
+            }
+        ],
+        "digital": [
+            {
+                "general": [
+                    {
+                        "sku": "1031359470",
+                        "nombre": "Tarjeta de Regalo Xbox Live"
+                    }
+                ]
+            }
+        ],
+        "hibrido": [
+            {
+                "general": [
+                    {
+                        "sku": "1029957149",
+                        "nombre": "Kaspersky TMKS-172 Antivirus 2017"
+                    }
+                ]
+            }
+        ],"cross": [
+            {
+                "general": [
+                    {
+                        "sku": "1138030691",
+                        "nombre": "Cómoda Casagora Palermo de chapa madera"
+                    },
+                    {
+                        "sku": "1127004115",
+                        "nombre": "Bikini MAP estampado floral a la cadera para mujer"
+                    },
+                    {
+                        "sku": "1145431771",
+                        "nombre": "Cama Casagora Palermo de madera encinoa"
+                    },{
+                        "sku": "1127431561",
+                        "nombre": "Bikini That's It estampado a rayas a la cadera para mujer"
+                    },
+                    {
+                        "sku": "1131880843",
+                        "nombre": "Bikini MAP estampado a cuadros cintura alta para mujer"
+                    },
+                    {
+                        "sku": "1145431771",
+                        "nombre": "Cama Casagora Palermo de madera encino"
+                    }
+                ],
+                "same": [
+                    {
+                        "sku": "1138030691",
+                        "nombre": "Cómoda Casagora Palermo de chapa madera"
+                    }
+                ]
+            }
+        ]
+    },
+    "suburbia": {
+        "sl": [
+            {
+                "general": [
+                    {
+                        "sku": "1073385661",
+                        "nombre": "Eau de parfum Lancôme La Vie Est belle para mujer"
+                    }
+                ],
+                "talla": [
+                    {
+                        "sku": "1023502750",
+                        "nombre": "Blusa Ivonne manga corta"
+                    }
+                ]
+            }
+        ]
+    }
+}
