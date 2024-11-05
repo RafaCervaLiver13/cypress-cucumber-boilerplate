@@ -1,0 +1,186 @@
+{
+    "comprasSb": [
+        {
+            "email": "autom2024.cy.myorders2@yopmail.com",
+            "pass": "Liverpool2024",
+            "pedido": "1010103102092610",
+            "pedido2+": "1010103127062732",
+            "vencida": "1010100257143281"
+        }
+    ],
+    "comprasPb": [
+        {
+            "email": "autom2024.cy.myorders2@yopmail.com",
+            "pass": "Liverpool2024",
+            "pedido": "1010102318223287",
+            "pedido2+": "1010100910912393",
+            "vencida": "1010104258244686"
+        }
+    ],
+    "comprasGap": [
+        {
+            "email": "autom2024.cy.myorders2@yopmail.com",
+            "pass": "Liverpool2024",
+            "pedido": "1010103084256813",
+            "pedido2+": "1010101896817636",
+            "vencida": "1010104159039163"
+        }
+    ],
+    "comprasToys": [
+        {
+            "email": "autom2024.cy.myorders2@yopmail.com",
+            "pass": "Liverpool2024",
+            "pedido": "1010102921595453",
+            "pedido2+": "1010103905270088",
+            "vencida": "1010100878533000"
+        }
+    ],
+    "credito": [
+        {
+            "email": "vgvelascog@liverpool.com.mx",
+            "pass": "Liverpool2023"
+        }
+    ],
+    "creditoSB": [
+        {
+            "email": "jdserranoc@liverpool.com.mx",
+            "pass": "Liverpool2023"
+        }
+    ],
+    "general": [
+        {
+            "email": "autom2024.cy.common2@yopmail.com",
+            "pass": "Liverpool2024"
+        }
+    ],
+    "tiempoAire": [
+        {
+            "email": "autom2024.cy.topup2@yopmail.com",
+            "pass": "Liverpool2024"
+        }
+    ],
+    "navegacion": [
+        {
+            "email": "autom2024.cy.nav@yopmail.com",
+            "pass": "Liverpool2024"
+        }
+    ],
+    "myBag": [
+        {
+            "email": "autom2024.cy.mybag@yopmail.com",
+            "pass": "Liverpool2024"
+        }
+    ],
+    "home": [
+        {
+            "email": "autom2024.cy.home@yopmail.com",
+            "pass": "Liverpool2024"
+        }
+    ],
+    "login": [
+        {
+            "email": "autom2024.cy.login2@yopmail.com",
+            "pass": "Liverpool2024"
+        }
+    ],
+    "loginMesa": [
+        {
+            "email": "autom2024.cy.login@yopmail.com",
+            "pass": "Liverpool2024"
+        }
+    ],
+    "med": [
+        {
+            "email": "autom2024.cy.med@yopmail.com",
+            "pass": "Liverpool2024"
+        }
+    ],
+    "compras": [
+        {
+            "email": "autom2024.cy.myorders2@yopmail.com",
+            "pass": "Liverpool2024",
+            "pedido": "1010101075085137",
+            "pedido2+": "1010101396888631",
+            "vencida": "1010101075085137"
+        }
+    ],
+    "dates": [
+        {
+            "email": "autom2024.cy.dates@yopmail.com",
+            "pass": "Liverpool2024"
+        }
+    ],
+    "wishlist": [
+        {
+            "email": "autom2024.cy.wishlist@yopmail.com",
+            "pass": "Liverpool2024"
+        }
+    ],
+    "giftregistry": [
+        {
+            "email": "autom2024.cy.giftregistry@yopmail.com",
+            "pass": "Liverpool2024",
+            "evento": "51394209"
+        }
+    ],
+    "giftregistryempty": [
+        {
+            "email": "autom2024.cy.giftregistry2@yopmail.com",
+            "pass": "Liverpool2024"
+        }
+    ],
+    "browse": [
+        {
+            "email": "autom2024.cy.browse@yopmail.com",
+            "pass": "Liverpoool2024"
+        }
+    ],
+    "geos": [
+        {
+            "email": "autom2024.cy.geos@yopmail.com",
+            "pass": "Liverpool2024"
+        }
+    ],
+    "myaccount": [
+        {
+            "email": "autom2024.cy.myaccount@yopmail.com",
+            "pass": "Liverpool2024"
+        }
+    ],
+    "chkGeneral": [
+        {
+            "email": "autom2024.cy.chk@yopmail.com",
+            "pass": "Liverpool2024"
+        }
+    ],
+    "chkDirExternas": [
+        {
+            "email": "autom2024.cy.chk2@yopmail.com",
+            "pass": "Liverpool2024"
+        }
+    ],
+    "chkEmpty": [
+        {
+            "email": "autom2024.cy.chk3@yopmail.com",
+            "pass": "Liverpool2024"
+        }
+    ],
+    "chkCCPred": [
+        {
+            "email": "autom2024.cy.chk4@yopmail.com",
+            "pass": "Liverpool2024"
+        }
+    ],
+    "chkMesa": [
+        {
+            "email": "autom2024.cy.chk5@yopmail.com",
+            "pass": "Liverpool2024"
+        }
+    ],
+    "chk": [
+        {
+            "email": "autom2024.cy.chk@yopmail.com",
+            "pass": "Liverpool2024"
+        }
+    ]
+}

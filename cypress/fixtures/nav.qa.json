@@ -1,0 +1,30 @@
+{
+    "liverpool": {
+        "blp": [
+            {
+                "nombre": "AEROPOSTALE"
+            },
+            {
+                "nombre": "NIKE"
+            }
+        ],
+        "filtros": [
+            {
+                "nombre": "sandalias"
+            },
+            {
+                "nombre": "short niño"
+            }
+        ],
+        "filtroCantidad": [
+            {
+                "nombre": "chamarra gap"
+            }
+        ],
+        "mkp": [
+            {
+                "nombre": "ejemplo SI"
+            }
+        ]
+    }
+}

@@ -1,42 +1,72 @@
-# cypress-cucumber-boilerplate-for-e2e-testing
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/632fe5c90b3849f8a8843978cf0b5471)](https://app.codacy.com?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
-<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQF1dg2KtKFdPg/company-logo_200_200/0/1626295436859?e=2159024400&v=beta&t=Ib_T9PXXQxkHRKnj3Oe65EKuR6EAh01IgAA6IGvU0FY" alt="exemplo imagem">
+# Automation Cypress
+Automation project for Liverpool E-Commerce desktop and mobile browsers.
 
-> Cypress 10+ with Cucumber boilerplate project.
+## Prerequisites
+To check whether you already have Node installed, open new terminal window and type:
+```bash
+$ node -v
+```
+If you have Node.js installed, it should output Node’s version. If you don’t, you’ll see this message in shell:
+```bash
+$ zsh: command not found: node
+```
+That means that the command you are trying to run is not installed. There are several ways to install Node.js and NPM:
+- Using the macOS installer available from the [Node.js](https://nodejs.org/) website
+- Using [homebrew](https://brew.sh/)
 
-### 💻 Topics
+## Installation
+```bash
+$ git clone https://github.com/Servicios-Liverpool-Infraestructura/ICD_Automation_Cypress.git
+$ cd ICD_Automation_Cypress/ 
+$ npm i
+```
 
-Integrated with:
+## CLI run parameters examples
+#### Mobile
+```bash
+$ npm run cypress:mobile ENV='prod',SITE='www',STORE='liverpool',TAGS='(@p0 and @liv) and not (@ignore or @desktop)'
+```
+#### Desktop
+```bash
+$ npm run cypress:desktop ENV='prod',SITE='www',STORE='liverpool',TAGS='(@p0 and @liv) and not (@ignore or @mobile)'
+```
+#### Desktop Open
+```bash
+$ npm run cypress:open:desktop
+```
 
-- [x] https://github.com/badeball/cypress-cucumber-preprocessor
-- [x] https://github.com/bahmutov/cypress-esbuild-preprocessor
-- [x] https://www.npmjs.com/package/multiple-cucumber-html-reporter
-- [x] https://github.com/cucumber/json-formatter
-- [x] https://github.com/Shelex/cypress-allure-plugin
+#### Generate report
+```bash
+$ node cucumber-html-report.js
+```
 
-(+ bundlers: https://github.com/badeball/cypress-cucumber-preprocessor/tree/master/examples)
+## Viewport configurations
+|Preset          |width                          |height                       |
+|----------------|-------------------------------|-----------------------------|
+|macbook-13      |1280                           |800                          |
+|iphone-x	     |375                            |812                          |
 
-- ## 💻 Pre-requisites
+## Update all outdated packages
 
-1. Node JS
-2. Optional: Java 8 for Allure Reporter
-3. Optional: Json-formatter for Native Reporter option(depends on your OS: https://github.com/cucumber/json-formatter)
+First, check the packages which are outdated
+```bash
+$ sudo npm i -g npm-check-updates
+```
 
-## 🚀 Install the project
+Second, put all of them in ready
+```bash
+$ ncu -u
+```
 
-Install project dependencies with: npm i
+Third, just update all of them.
+```bash
+$ sudo npm install
+```
+That's it.
 
-## Run the demo:
-
-1. Standard Execution: npm run cypress:execution
-2. Native report(with JSON FORMATTER): Check how to do it in this video: [Cucumber BDD Report - YouTube](https://www.youtube.com/watch?v=5AGXK9cL2fs&t=2s&ab_channel=JoanMedia)
-3. Allure Report: 
-   1. npm run cypress:execution-allure
-   2. npm run allure:report
-   3. allure open
-   4. You'll get a report like this one: GitHub Page - Allure Report Sample: https://joanesquivel.github.io/cypress-cucumber-boilerplate/
-
-
-##  Sample repo to generate an allure report as an artifact using GH Actions
-
-* https://github.com/SeyiOG/newCyLearn2/blob/main/.github/workflows/cypress-allure-report.yml
+In Mac OS you need to run as admin in the first time
+```bash
+$ sudo npx cypress open
+```

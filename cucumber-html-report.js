@@ -1,16 +1,18 @@
 const report = require("multiple-cucumber-html-reporter");
 report.generate({
-  jsonDir: "jsonlogs", // ** Path of .json file **//
-  reportPath: "./reports/cucumber-htmlreport.html",
-  metadata: {
-    browser: {
-      name: "chrome",
-      version: "XX",
+    jsonDir: "cypress/reports",  // ** Path of .json file **//
+    reportPath: "cypress/reports",
+    reportName: "Automation WAP Reporter",
+    metadata: {
+        browser: {
+            name: "Chrome"
+        },
+        device: "Local test machine",
+        platform: {
+            name: "Mac OS",
+            version: "Monterey",
+        },
     },
-    device: "Local test machine",
-    platform: {
-      name: "Windows",
-      version: "11",
-    },
-  },
+    displayDuration: true,
+    displayReportTime: true
 });

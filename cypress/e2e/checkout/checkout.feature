@@ -1,10 +1,12 @@
+# language: en
+@chk @regression
+
 Feature: Checkout
 
-    Feature Login page will work depending on the user credentials.
     Background: Visit liverpool.com
         Given visit the liverpool page
 
-
+    # pide verificación de seguridad
     @liv @p0 @IAT-12528 @ignore
     Scenario: Purchase and cancellation of item.
         When search for "sku" with type "sl,compraMinima"
